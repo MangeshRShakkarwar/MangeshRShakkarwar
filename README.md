@@ -1,8 +1,7 @@
 # 💫 About Me:
 <br>Hello World ! I'm **Mangesh Shakkarwar**, a passionate **Full Stack Developer** with a knack for solving complex problems and creating high-quality solutions. Currently, I'm delving deeper into the **MERN stack** and exploring innovative technologies to enhance user experience.<br><br>- 🌟 I’m enthusiastic about building impactful projects and collaborating with dynamic teams.<br>- 🌱 Currently expanding my expertise in **Vue.js**, **Tailwind CSS**, and **AWS**.<br>- 🔭 Working on improving scalability and efficiency in web applications.<br>- 💬 Ask me about Full Stack Development, cloud integration, or innovative project ideas.<br>- 🤝 Actively seeking opportunities to contribute to exciting projects or teams.<br><br>---<br><br> 
 ## 🌐 Connect with Me:
-<br>📧 Email: mangeshramraoshakarwar@gmail.com  
-<br>📱 Phone: +91 7666009002
+<br>📧 Email: mangeshramraoshakarwar@gmail.com
 <br><br>---<br><br>
 
 
